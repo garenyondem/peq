@@ -1,6 +1,4 @@
-Device: all
-Channel: all
-Preamp: -11.5 dB
+Preamp: -9 dB
 Filter 1: ON PK Fc 10 Hz Gain -4.5 dB Q 1
 Filter 2: ON PK Fc 21 Hz Gain -1.5 dB Q 1.41
 Filter 3: ON PK Fc 42 Hz Gain -2 dB Q 1
