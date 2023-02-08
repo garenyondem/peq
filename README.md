@@ -1,3 +1,3 @@
 # EQ
 
-EQ settings I use on Equalizer APO and Qudelix-5K
+PEQ settings I use on Equalizer APO and/or Qudelix-5K
